@@ -19,7 +19,7 @@ Here is an small description of each file:
 
 - Go-Pioneras.pdf: **[Spanish]** Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/)
 
-###  SOA Service-Oriented Architecture
+### Service-Oriented Architecture
 
 - SOA-Velocity_Partners.pdf: **[English]** Intro to SOA Service-Oriented Architecture. *[Velocity Partners](http://www.velocitypartners.net/)
 
