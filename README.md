@@ -5,11 +5,11 @@ Here is an small description of each file:
 
 - Docker-Pioneras_Dev.pdf **[Spanish]** From begginers to Docker compose level. *[PionerasDev](http://pionerasdev.co/) 
 
-- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[@Todo1Services](https://twitter.com/Todo1Services)
-
 - Docker_Compose-Med_DevOps.pdf: **[Spanish]** Detailed tutorial of docker-compose. *[@mde_devops](https://twitter.com/mde_devops)
 
-- Docker_Lab_S1-Velocity.pdf: **[English]** A 3 parts docker laboratory from beginners to Swarm level. *[@velocitypar](https://twitter.com/velocitypar)
+- Docker_Lab_S1-Velocity.pdf: **[English]** A 3 parts docker laboratory from beginners to Swarm. *[@velocitypar](https://twitter.com/velocitypar)
+
+- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[@Todo1Services](https://twitter.com/Todo1Services)
 
 ### Firebase
 
