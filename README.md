@@ -1,6 +1,10 @@
 # Talks &amp; Slides 
 Here is an small description of each file:
 
+### Kubernetes
+
+- Kubernetes_101-PionerasDev.pdf **[English]** Begginers intro to Kubernetes, included exercises. *[PionerasDev](http://pionerasdev.co/) 
+
 ### Docker
 
 - Docker-Pioneras_Dev.pdf **[Spanish]** From begginers to Docker compose level. *[PionerasDev](http://pionerasdev.co/) 
@@ -9,7 +13,7 @@ Here is an small description of each file:
 
 - Docker_Lab_S1-Velocity.pdf: **[English]** Docker laboratories from beginners to Swarm. *[Velocity Partners](http://www.velocitypartners.net/)
 
-- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[Todo1](https://www.todo1services.com)
+- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, exercises included. *[Todo1](https://www.todo1services.com)
 
 ### Firebase
 
