@@ -7,9 +7,9 @@ Here is an small description of each file:
 
 - Docker_Compose-Med_DevOps.pdf: **[Spanish]** Detailed tutorial of docker-compose. *[@mde_devops](https://twitter.com/mde_devops)
 
-- Docker_Lab_S1-Velocity.pdf: **[English]** A 3 parts docker laboratory from beginners to Swarm. *[@velocitypar](https://twitter.com/velocitypar)
+- Docker_Lab_S1-Velocity.pdf: **[English]** Docker laboratories from beginners to Swarm. *[Velocity Partners](http://www.velocitypartners.net/)
 
-- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[@Todo1Services](https://twitter.com/Todo1Services)
+- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[Todo1](https://www.todo1services.com)
 
 ### Firebase
 
@@ -21,5 +21,5 @@ Here is an small description of each file:
 
 ###  SOA Service-Oriented Architecture
 
-- SOA-Velocity_Partners.pdf: **[English]** Intro to SOA Service-Oriented Architecture. *[@velocitypar](https://twitter.com/velocitypar)
+- SOA-Velocity_Partners.pdf: **[English]** Intro to SOA Service-Oriented Architecture. *[Velocity Partners](http://www.velocitypartners.net/)
 
