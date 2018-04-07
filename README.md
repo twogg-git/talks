@@ -5,7 +5,7 @@ Here is an small description of each file:
 
 - Docker-Pioneras_Dev.pdf **[Spanish]** From begginers to Docker compose level. *[@pionerasdev](https://twitter.com/pionerasdev) 
 
-- Docker-Todo1.pdf **[Spanish]** Reach till intermediate level on Docker. *[@Todo1Services](https://twitter.com/Todo1Services)
+- Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[@Todo1Services](https://twitter.com/Todo1Services)
 
 - Docker_Compose-Med_DevOps.pdf: **[Spanish]** Detailed tutorial of docker-compose. *[@mde_devops](https://twitter.com/mde_devops)
 
