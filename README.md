@@ -3,7 +3,7 @@ Here is an small description of each file:
 
 ### Docker
 
-- Docker-Pioneras_Dev.pdf **[Spanish]** From begginers to Docker compose level. *[@pionerasdev](https://twitter.com/pionerasdev) 
+- Docker-Pioneras_Dev.pdf **[Spanish]** From begginers to Docker compose level. *[PionerasDev](http://pionerasdev.co/) 
 
 - Docker-Todo1.pdf **[Spanish]** Docker till intermediate level, excercises included. *[@Todo1Services](https://twitter.com/Todo1Services)
 
@@ -17,7 +17,7 @@ Here is an small description of each file:
 
 ### Golang
 
-- Go-Pioneras.pdf: **[Spanish]** Intro to Golang, covered main componentes and structures. *[@pionerasdev](https://twitter.com/pionerasdev)
+- Go-Pioneras.pdf: **[Spanish]** Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/) (https://twitter.com/pionerasdev)
 
 ###  SOA Service-Oriented Architecture
 
