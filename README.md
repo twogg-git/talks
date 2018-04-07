@@ -17,7 +17,7 @@ Here is an small description of each file:
 
 ### Golang
 
-- Go-Pioneras.pdf: **[Spanish]** Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/) (https://twitter.com/pionerasdev)
+- Go-Pioneras.pdf: **[Spanish]** Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/)
 
 ###  SOA Service-Oriented Architecture
 
