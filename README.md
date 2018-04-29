@@ -3,6 +3,8 @@ Here is an small description of each file:
 
 ### Kubernetes
 
+- [Kubernetes_Intro-ScaleConfCO.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_Intro-ScaleConfCO.pdf) **[English]** Intro to Kubernetes Master Node and Objects. *[ScaleConfCO](http://scaleconfco.com/) 
+
 - [Kubernetes_101-PionerasDev.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_101-PionerasDev.pdf) **[English]** Begginers intro to Kubernetes, included exercises. *[PionerasDev](http://pionerasdev.co/) 
 
 ### Docker
