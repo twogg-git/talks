@@ -23,7 +23,9 @@ Here is an small description of each file:
 
 ### Kubernetes
 
-- [Kubernetes - Endava](https://github.com/twogg-git/talks/blob/master/Kubernetes-Endava.pdf) Introduccion practica a Kubernetes, ejercicios includos. *[Endava Latam](https://www.facebook.com/EndavaLatam/) 
+- [Kubernetes-Endava.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes-Endava.pdf) Introduccion practica a Kubernetes, ejercicios includos. *[Endava Latam](https://www.facebook.com/EndavaLatam/) 
+
+- [Kubernetes_Durazno Conf.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_DuraznoConf.pdf) Repaso Docker, Registry, Intro a Kubernetes, ejercicios includos. *[DuraznoConf](http://duraznoconf.uy) 
 
 ### Docker
 
