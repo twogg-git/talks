@@ -1,5 +1,4 @@
 # Talks &amp; Slides 
-Here is an small description of each file:
 
 ## English
 
@@ -16,7 +15,7 @@ Here is an small description of each file:
 ### Service-Oriented Architecture   
 - [SOA-Velocity_Partners.pdf](https://github.com/twogg-git/talks/blob/master/SOA-Velocity_Partners.pdf) Intro to SOA Service-Oriented Architecture. *[Velocity Partners](http://www.velocitypartners.net/)
 
-# Español
+## Español
 
 ### Kubernetes    
 - [Kubernetes-Endava.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes-Endava.pdf) Introduccion practica a Kubernetes, ejercicios includos. *[Endava Latam](https://www.facebook.com/EndavaLatam/)    
