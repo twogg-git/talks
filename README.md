@@ -10,13 +10,13 @@
 - [Concurrency_vs_Parallelism-AAD2019.pdf](https://github.com/twogg-git/talks/blob/master/Concurrency_vs_Parallelism-AAD2019.pdf) Concurrency vs Parallelism in DevOps. *[Endava AAD Days](https://www.facebook.com/endava/)   
 
 ### Docker   
-- [Docker_Lab_S1-Velocity.pdf](https://github.com/twogg-git/talks/blob/master/Docker_Lab_S1-Velocity.pdf) Docker laboratories from beginners to Swarm. *[Velocity Partners](http://www.velocitypartners.net/)
+- [Docker_Lab_S1-Velocity.pdf](https://github.com/twogg-git/talks/blob/master/Docker_Lab_S1-Velocity.pdf) Docker laboratories from beginners to Swarm. *[Velocity/Endava](https://www.endava.com/)
 
 ### Firebase   
 - [Firebase_Intro-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/Firebase_Intro-GDG_Medellin.pdf) Firebase intro, exercises included. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)
 
 ### Service-Oriented Architecture   
-- [SOA-Velocity_Partners.pdf](https://github.com/twogg-git/talks/blob/master/SOA-Velocity_Partners.pdf) Intro to SOA Service-Oriented Architecture. *[Velocity Partners](http://www.velocitypartners.net/)
+- [SOA-Velocity_Partners.pdf](https://github.com/twogg-git/talks/blob/master/SOA-Velocity_Partners.pdf) Intro to SOA Service-Oriented Architecture. *[Velocity/Endava](https://www.endava.com/)
 
 ## Español
 
