@@ -6,6 +6,9 @@
 - [Kubernetes_Intro-ScaleConfCO.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_Intro-ScaleConfCO.pdf) Intro to Kubernetes Master Node and Objects. *[ScaleConfCO](http://scaleconfco.com/)    
 - [Kubernetes_101-PionerasDev.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_101-PionerasDev.pdf) Kubernetes 101. *[PionerasDev](http://pionerasdev.co/) 
 
+### DevOps
+- [Concurrency_vs_Parallelism-AAD2019.pdf](https://github.com/twogg-git/talks/blob/master/Concurrency_vs_Parallelism-AAD2019.pdf) Concurrency vs Parallelism in DevOps. *[Endava AAD Days](https://www.facebook.com/endava/)   
+
 ### Docker   
 - [Docker_Lab_S1-Velocity.pdf](https://github.com/twogg-git/talks/blob/master/Docker_Lab_S1-Velocity.pdf) Docker laboratories from beginners to Swarm. *[Velocity Partners](http://www.velocitypartners.net/)
 
