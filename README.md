@@ -12,6 +12,7 @@
 
 ### Docker   
 - [Docker_Lab_S1-Velocity.pdf](https://github.com/twogg-git/talks/blob/master/Docker_Lab_S1-Velocity.pdf) Docker laboratories from beginners to Swarm. *[Velocity/Endava](https://www.endava.com/)
+- [Docker_Registry-Endava.pdf](https://github.com/twogg-git/talks/blob/master/Docker_Registry-Endava.pdf) Docker Registry Workshop. *[Endava](https://www.endava.com/)
 
 ### Firebase   
 - [Firebase_Intro-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/Firebase_Intro-GDG_Medellin.pdf) Firebase intro, exercises included. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)
