@@ -6,6 +6,9 @@
 - [Kubernetes_Intro-ScaleConfCO.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_Intro-ScaleConfCO.pdf) Intro to Kubernetes Master Node and Objects. *[ScaleConfCO](http://scaleconfco.com/)    
 - [Kubernetes_101-PionerasDev.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_101-PionerasDev.pdf) Kubernetes 101. *[PionerasDev](http://pionerasdev.co/) 
 
+### Serverless
+- [Serverless_AWS_Lambda-DevWeek2019.pdf](https://github.com/twogg-git/talks/blob/master/Serverless_AWS_Lambda-DevWeek2019.pdf) Serverless intro, AWS Services review, and AWS Lambda case use. *[Endava GlobalDevWeek](https://www.facebook.com/endava/) 
+
 ### DevOps
 - [Concurrency_vs_Parallelism-AAD2019.pdf](https://github.com/twogg-git/talks/blob/master/Concurrency_vs_Parallelism-AAD2019.pdf) Concurrency vs Parallelism in DevOps. *[Endava AAD Days](https://www.facebook.com/endava/)  
 - [Selenium_Kubernetes_TestWeek_Endava.pdf](https://github.com/twogg-git/talks/blob/master/Selenium_Kubernetes_TestWeek_Endava.pdf) Scaling Automated Execution with Selenium & Kubernetes. *[Endava TestWeek](https://www.facebook.com/endava/)  
