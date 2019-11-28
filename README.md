@@ -7,7 +7,7 @@
 - [Kubernetes_101-PionerasDev.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_101-PionerasDev.pdf) Kubernetes 101. *[PionerasDev](http://pionerasdev.co/) 
 
 ### Serverless
-- [Serverless_AWS_Lambda-DevWeek2019.pdf](https://github.com/twogg-git/talks/blob/master/Serverless_AWS_Lambda-DevWeek2019.pdf) Serverless intro, AWS Services review, and AWS Lambda case use. *[Endava GlobalDevWeek](https://www.facebook.com/endava/) 
+- [Serverless_AWS_Lambda-DevWeek2019.pdf](https://github.com/twogg-git/talks/blob/master/Serverless_AWS_Lambda-DevWeek2019.pdf) Serverless intro and AWS Lambda case use. *[Endava GlobalDevWeek](https://www.facebook.com/endava/) 
 
 ### DevOps
 - [Concurrency_vs_Parallelism-AAD2019.pdf](https://github.com/twogg-git/talks/blob/master/Concurrency_vs_Parallelism-AAD2019.pdf) Concurrency vs Parallelism in DevOps. *[Endava AAD Days](https://www.facebook.com/endava/)  
