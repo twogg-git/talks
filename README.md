@@ -28,6 +28,9 @@
 
 ## Español
 
+### DevOps 
+- [De_Backend_a_Devops-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/De_Backend_a_Devops-GDG_Medellin.pdf) Cambiando Roles, De Backend a DevOps, y las nuevas reglas del juego. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)  
+
 ### Kubernetes    
 - [Kubernetes-Endava.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes-Endava.pdf) Introduccion practica a Kubernetes, ejercicios includos. *[Endava Latam](https://www.facebook.com/EndavaLatam/)    
 - [Kubernetes_Durazno Conf.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes_DuraznoConf.pdf) Repaso Docker, Registry, Intro a Kubernetes, ejercicios includos. *[DuraznoConf](http://duraznoconf.uy)    
