@@ -29,7 +29,7 @@
 ## Español
 
 ### DevOps 
-- [De_Backend_a_Devops-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/De_Backend_a_Devops-GDG_Medellin.pdf) Cambiando Roles, De Backend a DevOps!. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)  
+- [De_Backend_a_Devops-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/De_Backend_a_Devops-GDG_Medellin.pdf) Cambiando Roles y las nuevas reglas del juego. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)  
 
 ### Kubernetes    
 - [Kubernetes-Endava.pdf](https://github.com/twogg-git/talks/blob/master/Kubernetes-Endava.pdf) Introduccion practica a Kubernetes, ejercicios includos. *[Endava Latam](https://www.facebook.com/EndavaLatam/)    
