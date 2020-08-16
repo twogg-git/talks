@@ -42,5 +42,5 @@
 - [Docker-Todo1.pdf](https://github.com/twogg-git/talks/blob/master/Docker-Todo1.pdf) Docker till intermediate level, exercises included. *[Todo1](https://www.todo1services.com)
 
 ### Golang   
-- [Go-Pioneras.pdf](https://github.com/twogg-git/talks/blob/master/Go-Pioneras.pdf) Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/)
+- [Go-Pioneras.pdf](https://github.com/twogg-git/talks/blob/master/Intro_Go_Pioneras2020.pdf) Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/)
 
