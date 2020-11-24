@@ -20,6 +20,9 @@
 ### ELK Stack
 - [ELK Monitoring](https://github.com/twogg-git/talks/blob/master/ELK_Monitoring_Endava.pdf) ELK Stack Monitoring, Intro and Pratice. *[Endava Internship Program 2019-2](https://www.endava.com/)
 
+### Terraform
+- [Terraform Intro](https://github.com/twogg-git/talks/blob/master/Terraform_Intro-DevWeek_Endava.pdf) Terraform introduction Hands-On. *[Endava DevWeek 2020](https://www.endava.com/)
+
 ### Firebase   
 - [Firebase_Intro-GDG_Medellin.pdf](https://github.com/twogg-git/talks/blob/master/Firebase_Intro-GDG_Medellin.pdf) Firebase intro, exercises included. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/)
 
