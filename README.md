@@ -48,3 +48,5 @@
 ### Golang   
 - [Go-Pioneras.pdf](https://github.com/twogg-git/talks/blob/master/Intro_Go_Pioneras2020.pdf) Intro to Golang, covered main componentes and structures. *[PionerasDev](http://pionerasdev.co/)
 
+### Plan Carrera
+- [Plan_Carrera-GDG_DevFest2022.pdf](https://github.com/twogg-git/talks/blob/master/Plan_Carrera-GDG_DevFest2022.pdf) Plan de Carrera. De Junior a Senior. Lecciones Aprendidas. *[GDG Medellin](https://www.meetup.com/GDG-Medellin/) 
